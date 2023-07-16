@@ -1,6 +1,6 @@
 # Тест веб-приложения для учителей от Skyeng
 
-### [Тест план](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Тест%20план.md)
+### [Тест план](https://github.com/ELvovo7/-Coursework-4-diploma-Skypro-/blob/main/docs/Тест%20план.md)
 
 ### [1. Объект тестирования](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Объект%20тестирования.md)
 
