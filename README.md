@@ -12,4 +12,4 @@
 
 ### [6. Отчет о тестировании итогового проекта](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Отчет%20о%20тестировании%20итогового%20проекта.md)
 
-### [7. Заключение](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Отчет%20о%20тестировании%20итогового%20проекта.md)
+### [7. Заключение](https://github.com/ELvovo7/-Coursework-4-diploma-Skypro-/blob/main/docs/Заключение.md)
